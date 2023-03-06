@@ -36,8 +36,3 @@ build/
 
 ### react-project ###
 react-project/node_modules
-react-project/build
-react-project/.DS_Store
-react-project/npm-debug.log*
-react-project/yarn-debug.log*
-react-project/yarn-error.log*
