@@ -1,0 +1,43 @@
+moviesFullStackProject/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### ENV Files ###
+.env
+
+### react-project ###
+react-project/node_modules
+react-project/build
+react-project/.DS_Store
+react-project/npm-debug.log*
+react-project/yarn-debug.log*
+react-project/yarn-error.log*
